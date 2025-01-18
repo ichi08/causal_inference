@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas
+matplotlib
+scikit-learn
+ipython 
+torch
+scipy
+networkx==2.8.8
+joblib
+pydot
+tqdm
+ylearn==0.2.0
+
+# python version is 3.10.16
